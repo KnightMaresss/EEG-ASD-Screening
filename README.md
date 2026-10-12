@@ -610,7 +610,7 @@ publish results based on this tool.
 - GitHub: [@KnightMaresss](https://github.com/KnightMaresss)
 - Email: [waleedalmaqtari10@gmail.com](mailto:waleedalmaqtari10@gmail.com)
 
-**Repository:** [github.com/KnightMares/eeg-asd-screening](https://github.com/KnightMares/eeg-asd-screening)
+**Repository:** [github.com/KnightMares/eeg-asd-screening](https://github.com/KnightMaresss/eeg-asd-screening)
 
 For questions or issues, please [open a GitHub Issue](https://github.com/KnightMares/eeg-asd-screening/issues).
 
