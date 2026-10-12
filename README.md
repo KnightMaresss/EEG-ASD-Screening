@@ -87,6 +87,7 @@ common source of silent errors in EEG-based ML projects.
 - Prediction history table with summary statistics
 
 ---
+
 ## Screenshots
 
 ### Prediction tab
@@ -105,6 +106,7 @@ common source of silent errors in EEG-based ML projects.
 ![Result card](assets/screenshots/result-card.png)
 
 ---
+
 ## Requirements
 
 ### Software
@@ -130,6 +132,7 @@ Installed automatically via `pip install -r requirements.txt`. Key packages:
 | `seaborn` | Figure generation for paper/reports |
 
 ---
+
 ## Installation
 
 ### 1. Clone the repository
