@@ -186,10 +186,30 @@ provide it manually.
 
 ### Getting the dataset
 
-Obtain the **Sheffield Resting-State EEG** dataset from the original
-source. Contact the dataset authors or check OSF / IEEE DataPort for
-access. Redistribution rights vary — do not commit the data to this
-repo.
+The dataset is openly available on the University of Sheffield's
+ORDAs repository:
+
+**[EEG Data for "Electrophysiological signatures of brain aging in
+autism spectrum disorder"](https://orda.shef.ac.uk/articles/dataset/EEG_Data_for_Electrophysiological_signatures_of_brain_aging_in_autism_spectrum_disorder_/16840351)**
+
+- Authors: Elizabeth Milne et al.
+- Published: 2021-12-05
+- Participants: 28 ASD + 28 neurotypical controls (ages 18–68)
+- Paradigm: 2.5 min eyes-closed resting state
+- Hardware: Biosemi ActiveTwo EEG system
+- Format: EEGLAB `.set` + `.fdt` pairs
+- License: Open access (per the ORDA listing)
+- Reference publication: Dickinson, Jeste & Milne,
+  *"Electrophysiological signatures of brain aging in autism spectrum
+  disorder"*
+
+Download the archive from ORDA, extract it, and place the `.set`/`.fdt`
+files under `data/raw/sheffield_asd_eeg/` (see below).
+
+**Note on licensing:** The ORDA listing states the data can be shared
+openly, but always confirm the exact terms on the ORDA page before
+redistributing. Do **not** commit the raw data to this repository —
+keep it under `data/raw/`, which is gitignored.
 
 ### Placing the dataset
 
