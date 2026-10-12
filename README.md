@@ -135,7 +135,7 @@ Installed automatically via `pip install -r requirements.txt`. Key packages:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/KnightMares/eeg-asd-screening.git
+git clone https://github.com/KnightMaresss/eeg-asd-screening.git
 cd eeg-asd-screening
 ```
 
@@ -610,8 +610,8 @@ publish results based on this tool.
 - GitHub: [@KnightMaresss](https://github.com/KnightMaresss)
 - Email: [waleedalmaqtari10@gmail.com](mailto:waleedalmaqtari10@gmail.com)
 
-**Repository:** [github.com/KnightMares/eeg-asd-screening](https://github.com/KnightMaresss/eeg-asd-screening)
+**Repository:** [github.com/KnightMaresss/eeg-asd-screening](https://github.com/KnightMaresss/eeg-asd-screening)
 
-For questions or issues, please [open a GitHub Issue](https://github.com/KnightMares/eeg-asd-screening/issues).
+For questions or issues, please [open a GitHub Issue](https://github.com/KnightMaresss/eeg-asd-screening/issues).
 
 
