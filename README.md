@@ -583,11 +583,6 @@ the exe will launch with no model available.
 
 This project is licensed under the **MIT License** — see the
 [LICENSE](LICENSE) file for details.
-
-*(If you prefer a different license, replace this section. For a
-private academic project, "All rights reserved" or an academic license
-may be more appropriate.)*
-
 ---
 
 ## Acknowledgments
