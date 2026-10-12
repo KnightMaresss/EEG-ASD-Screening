@@ -8,7 +8,6 @@ Built with Python, PySide6, MNE-Python, and scikit-learn.
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -582,10 +581,11 @@ the exe will launch with no model available.
 
 ---
 
-## License
+## 📄 License
 
-This project is licensed under the **MIT License** — see the
-[LICENSE](LICENSE) file for details.
+All rights reserved.
+
+Copyright (c) 2026 Waleed (KnightMares)
 
 ---
 
