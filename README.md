@@ -610,7 +610,7 @@ publish results based on this tool.
 
 ## 👤 Author
 
-**Waleed Al-Maqtari (KnightMares)**
+**Waleed (KnightMares)**
 
 - GitHub: [@KnightMaresss](https://github.com/KnightMaresss)
 - Email: [waleedalmaqtari10@gmail.com](mailto:waleedalmaqtari10@gmail.com)
