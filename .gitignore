@@ -1,0 +1,67 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---------- Virtual environments ----------
+venv/
+.venv/
+env/
+ENV/
+.python-version
+
+# ---------- Testing / coverage ----------
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ---------- IDE / editors ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Project artifacts ----------
+# Trained models (regenerate by running training)
+models/*.joblib
+models/*.pkl
+
+# Prediction database
+data/database/*.db
+data/database/*.db-journal
+
+# ============================================================
+# THE DATASET — never commit this
+# ============================================================
+# Raw Sheffield EEG files (.set + .fdt), 56 subjects — large + licensed
+data/raw/
+
+# Processed data (derived from raw)
+data/processed/
+
+# ------------------------------------------------------------
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+*.png
+!assets/**/*.png
