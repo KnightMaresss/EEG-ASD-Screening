@@ -608,7 +608,7 @@ publish results based on this tool.
 
 ---
 
-## Author
+## 👤 Author
 
 **Waleed Al-Maqtari (KnightMares)**
 
