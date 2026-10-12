@@ -608,11 +608,15 @@ publish results based on this tool.
 
 ---
 
-## Contact
+## Author
 
-**Maintainer:** KnightMares
-**Repository:** https://github.com/KnightMares/eeg-asd-screening
+**Waleed Al-Maqtari (KnightMares)**
 
-For questions or issues, open a GitHub Issue.
+- GitHub: [@KnightMaresss](https://github.com/KnightMaresss)
+- Email: [waleedalmaqtari10@gmail.com](mailto:waleedalmaqtari10@gmail.com)
+
+**Repository:** [github.com/KnightMares/eeg-asd-screening](https://github.com/KnightMares/eeg-asd-screening)
+
+For questions or issues, please [open a GitHub Issue](https://github.com/KnightMares/eeg-asd-screening/issues).
 
 
