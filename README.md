@@ -90,10 +90,6 @@ common source of silent errors in EEG-based ML projects.
 
 ## Screenshots
 
-> Screenshots live in `assets/screenshots/`. See the
-> [Where to add screenshots](#where-to-add-screenshots) section below
-> for details on placing your own.
-
 ### Prediction tab
 ![Prediction tab](assets/screenshots/predict-tab.png)
 
@@ -103,7 +99,7 @@ common source of silent errors in EEG-based ML projects.
 ### History tab
 ![History tab](assets/screenshots/history-tab.png)
 
-### Sample EEG plot
+### EEG signal plot
 ![EEG plot](assets/screenshots/eeg-plot.png)
 
 ### Result card
